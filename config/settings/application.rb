@@ -5,8 +5,8 @@
 # SET SENSITIVE DATA ONLY IN 'local.rb'
 
 SimpleConfig.for :application do
-  set :app_name, 'icare'
-  set :repository_url, 'http://github.com/diowa/icare'
+  set :app_name, 'icarevt'
+  set :repository_url, 'http://github.com/gdoteof/icare'
 
   set :demo_mode, true
   set :base_url, 'localhost:3000'
